@@ -2,7 +2,7 @@
 
 # Summary
 
-#### How many time when you try to start a converstaion with your kids by asking "How was the day?" and you got a response from:
+#### How many time when you try to start a converstaion with your kids by asking "How was the day?" and get a response from:
 ```random.choice('fine','not bad','good','okay')```
 #### And nothing more, conversation ends.
 
